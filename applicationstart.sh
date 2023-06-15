@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /home/ubuntu
+cd /home/ubuntu/dev
 pm2  start server.js
