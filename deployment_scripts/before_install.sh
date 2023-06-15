@@ -12,3 +12,4 @@ fi
 cd /home/ubuntu/
 sudo rm -rf app
 sudo mkdir app
+sudo chown -R root:root app
